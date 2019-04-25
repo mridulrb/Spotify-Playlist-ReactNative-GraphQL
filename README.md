@@ -83,7 +83,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 <br/>
 **7. Open (https://pm5wl5l3r0.sse.codesandbox.io/) in browser or fork the repository from (https://codesandbox.io/s/pm5wl5l3r0) and edit the GraphQL dataset with your preferences** <br/>
 <br/>
-**8. Go back to Terminal/Command Prompt and type*** <br/>
+**8. Go back to Terminal/Command Prompt and type** <br/>
 ```
   npm start
 ```
