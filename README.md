@@ -13,7 +13,8 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ``` 
 **3. Install Expo Client using Node.js Command Prompt** *(https://expo.io/)*
 ```
-  npm install -g expo-cli (or) sudo npm install expo-cli --global --unsafe-perm
+  npm install -g expo-cli
+  npm install expo-cli --global --unsafe-perm
 ```  
 
 ## Mac
