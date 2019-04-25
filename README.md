@@ -60,3 +60,33 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ## Expo Client Mobile Application
 **iPhone -** *https://itunes.apple.com/us/app/expo-client/id982107779?mt=8* <br/>
 **Android -** *https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en*
+
+## Setting up the Project
+**1. Open Terminal/Command Prompt and go to the directory where you want to store the project**
+```
+ cd Desktop
+```
+**2. Create a blank expo template (Refer Installation Steps above for Expo) and Select blank template and type name of the project as Spotify Playlist**
+```
+ expo init spotify-playlist
+```
+```
+  Read more: https://docs.expo.io/versions/latest/workflow/configuration/ › 50% completed
+ {
+   "expo": {
+     "name": "Spotify Playlist",
+     "slug": "spotify-playlist"
+   }
+ }
+```
+**3. Open the folder spotify-playlist using Finder(Mac) & Windows Explorer(Windows)**
+**4. Right-Click Open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it***
+**5. Open https://pm5wl5l3r0.sse.codesandbox.io/ in browser or fork the repository from https://codesandbox.io/s/pm5wl5l3r0 and edit the GraphQL dataset with your preferences**
+**6. Go back to Terminal/Command Prompt and type***
+```
+  npm start
+```
+**7. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
+**
+
+
