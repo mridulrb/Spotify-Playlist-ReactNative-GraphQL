@@ -89,3 +89,5 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
 **9. Scan the QR Code on iPhone using Camera App and Android using Expo App (Connect the Computer and Mobile on the same network)**
 
+## Alternative (if Expo Client doesn't work)
+**Use (https://snack.expo.io/)**
