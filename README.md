@@ -34,6 +34,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
 **4. Install node**
 ```
+  brew install git
   brew install node
 ```
  *Check node & npm version*
