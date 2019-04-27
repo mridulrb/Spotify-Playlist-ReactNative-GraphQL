@@ -4,16 +4,16 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 
 
 ## Windows
-**1. Download Install Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)** *(https://git-scm.com/downloads)* <br/>
+**1. Download Node.js** *(https://nodejs.org/en/)* **(LTS Version Recommended)  and Git**  *(https://git-scm.com/downloads)* <br/>
 
-**2. Open Node.js Command Prompt and type**
+**2. Open Node.js Command Prompt and type to display versions**
 ```
  node -v
  npm –v
 ``` 
-**3. Install Expo Client using Node.js Command Prompt** *(https://expo.io/)*
+**3. Install React Native & Expo Client using Node.js Command Prompt** *(https://expo.io/)*
 ```
-  npm install -g expo-cli
+  npm install -g react-native-cli
   npm install expo-cli --global --unsafe-perm
 ```  
 
@@ -27,6 +27,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 **3. Install Watchman**
 ```
   brew install watchman
+  brew install yarn
 ```
 **4. Install node**
 ```
@@ -38,12 +39,9 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
     node -v
     npm -v
  ```
-**5. Install React Native**
+**5. Install React Native & Expo Client**
 ```
   sudo npm install -g react-native-cli
-```
-**6. Install Expo Client**
-```
   sudo npm install expo-cli --global --unsafe-perm
 ```
 
@@ -57,7 +55,7 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 ```
  cd Desktop
 ```
-**2. Create a blank expo template (Refer Installation Steps above for Expo) and Select blank template and type name of the project as Spotify Playlist**
+**2. Create a blank expo template (Refer Installation Steps above for Expo), select the blank template and the name project - Spotify Playlist**
 ```
  expo init spotify-playlist
 ```
@@ -78,11 +76,11 @@ Install any code editor of your choice (e.g.- Microsoft Visual Code, atom etc)
 
 **4. Download the fonts from (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-bold.ttf?raw=1) & (https://github.com/mridulrb/Spotify-Playlist-ReactNative-GraphQL/blob/master/assets/gibson-regular.ttf?raw=1).**<br/>
 <br/>
-**5. Now, Open the folder spotify-playlist/assets using Finder(Mac) & Windows Explorer(Windows) and move the fonts in this folder** <br/>
+**5. Now, open the folder spotify-playlist/assets using Finder(Mac) & Windows Explorer(Windows) and move the fonts in this folder** <br/>
 <br/>
-**6. Right-Click Open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it** <br/>
+**6. Next, open the file App.js using any Code Editor Installed and add the code from the file App.js in this Repository and save it** <br/>
 <br/>
-**7. Open (https://pm5wl5l3r0.sse.codesandbox.io/) in browser or fork the repository from (https://codesandbox.io/s/pm5wl5l3r0) and edit the GraphQL dataset with your preferences** <br/>
+**7. Then, open (https://pm5wl5l3r0.sse.codesandbox.io/) in browser or fork the repository from (https://codesandbox.io/s/pm5wl5l3r0) and edit the GraphQL dataset with your preferences** <br/>
 <br/>
 **8. Go back to Terminal/Command Prompt and type** <br/>
 ```
