@@ -1,4 +1,4 @@
-# Code a playlist app with GraphQL ana React Native
+# Code a playlist app with GraphQL and React Native
 
 ## Introduction to Today's Workshop
 
